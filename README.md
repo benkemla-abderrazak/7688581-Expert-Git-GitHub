@@ -26,7 +26,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
 ```
-A définir
+Consulter l'URL : www.projet-git.com
 ```
 
 ## Executer les tests
